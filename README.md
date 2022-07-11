@@ -10,20 +10,20 @@ of the heating system is determined by individual decisions at the building scal
 model can better address the question of policy-makers, because the impact of policy measures
 such as a CO2 tax or subsidies on agent’s decisions are modeled explicitly.
 
-##Task
+<h2>Task</h2>
 In this project, you will create an agent-based building stock modeling.
 >Study the model developed by Naegeli et al., 2020, by reading the ODD (Overview,
 design concepts, and details) protocol
 >Create the system using Python, Java or R.
 >Run and test the model using a building example
 
-##Requirements
+<h2>Requirements</h2>
 >Good language skills in German or English
 >Independent and thorough operation
 >Programming experience in Python or Java
 >Interest in building energy efficiency and sustainability
 
-##Reference Literature
+<h2>Reference Literature</h2>
 Nägeli, C., Jakob, M., Catenazzi, G., & Ostermeyer, Y. (2020). Towards agent-based building
 stock modeling: Bottom-up modeling of long-term stock dynamics affecting the energy and
 climate impact of building stocks. Energy and Buildings, 211, 109763.
