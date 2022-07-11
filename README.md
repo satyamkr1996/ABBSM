@@ -1,4 +1,4 @@
-<h1>Agent-based Building Stock Modelling
+<h1>Agent-based Building Stock Modelling</h1>
 
 From 2021, Germany levies a national CO2 price in the transport and buildings sectors with the
 purpose of promoting the switch to climate-friendly technologies and renewable energies.
